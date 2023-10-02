@@ -1,0 +1,6 @@
+1-CLS: Cumulative layout shift means while loading the page how much page is shifting. (page load hote hote kitna shift hora hai)
+2-LCP: Largest Contentful Paint (eg - the biggest part in this page how long it is taking to laod the whole page will be loaded but the biggest element is loaded in how much means important part )
+       best lcp score accordin' to google is 2.5 seconds
+3-FID: First Input Delay (eg if you click on a botton how long does that buttton click brower process)
+       to provide good user experience sites should strive to have a FID of 100 milliseconds or less. 
+
